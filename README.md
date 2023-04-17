@@ -1,8 +1,8 @@
-<div>
+   <div>
     <img src="./GIF/gifFileName.gif" alt="Mau Truong" loop autoplay>
     <h4 align="center">If your dream doesn't scare you, It's clearly not big enough. </h4> 
-  </div>
-  <br>
+ </div>
+ <br>
   <h2 align="center">☄️ GitHub Stats ☄️</h2>
   <br>
   <div align=center>
@@ -16,16 +16,16 @@
   
   <br>
   <h2 align="center"> 📫 Find me 📫</h2>
-  <br>
   <div align="center">
     <a href="https://www.facebook.com/truongngo2707/" target="blank" width="150">
-      <img src="./img/facebook.png" alt="facebook" width="120" />
+      <img src="./img/facebook.png" alt="facebook" width="80" />
     </a>
     <a href="https://www.instagram.com/xong.do.an.doi.ten/" target="blank">
-      <img src="./img/instagram.png" alt="instagram" width="120"/>
+      <img src="./img/instagram.png" alt="instagram" width="80"/>
     </a>
     <a href="mailto:truongngo2707@gmail.com" target="top">
-      <img src="./img/gmail.png" alt="trungquandev-email" width="120"/>
+      <img src="./img/gmail.png" alt="trungquandev-email" width="80"/>
     </a>
   </div>
+
   
