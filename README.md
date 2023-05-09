@@ -20,7 +20,7 @@
     <a href="https://www.facebook.com/truongngo2707/" target="blank" width="150">
       <img src="./img/facebook.png" alt="facebook" width="80" />
     </a>
-    <a href="https://www.instagram.com/xong.do.an.doi.ten/" target="blank">
+    <a href="https://www.instagram.com/03.nmt/" target="blank">
       <img src="./img/instagram.png" alt="instagram" width="80"/>
     </a>
     <a href="mailto:truongngo2707@gmail.com" target="top">
