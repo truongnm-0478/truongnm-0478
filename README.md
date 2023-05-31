@@ -25,8 +25,8 @@
     <table style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
         <tr>
             <td style="width:50%;">
-                <img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoMauTruongQB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=10484E&hide_border=true" />
-                <img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=NgoMauTruongQB&show_icons=true&theme=react&border_color=10484E&hide_border=true" />
+                <img style="width:90%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoMauTruongQB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=10484E&hide_border=true" />
+                <img style="width:90%;" src="https://github-readme-stats.vercel.app/api?username=NgoMauTruongQB&show_icons=true&theme=react&border_color=10484E&hide_border=true" />
             </td>
             <td style="width:50%;; vertical-align: bottom;">
                 <img src="./GIF/b.gif" alt="dev" style="width=100%; border-radius:6px;"/>
@@ -38,13 +38,13 @@
 <div align="center" style="width:100%;" >
     <h2 align="center"> 📥 Find me 📥</h2>
     <br>
-    <a style="padding:0 40px;" href="https://www.facebook.com/truongngo2707/" target="blank" width="150">
+    <a style="padding:0 30px;" href="https://www.facebook.com/truongngo2707/" target="blank" width="150">
         <img src="./img/facebook.png" alt="facebook" width="100" />
     </a>
-    <a style="padding:0 40px;" href="https://www.instagram.com/03.nmt/" target="blank">
+    <a style="padding:0 30px;" href="https://www.instagram.com/03.nmt/" target="blank">
         <img src="./img/instagram.png" alt="instagram" width="100"/>
     </a>
-    <a style="padding:0 40px;" href="mailto:truongngo2707@gmail.com" target="top">
+    <a style="padding:0 30px;" href="mailto:truongngo2707@gmail.com" target="top">
         <img src="./img/gmail.png" alt="mail" width="100"/>
     </a>
 </div>
