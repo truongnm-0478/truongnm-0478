@@ -1,13 +1,13 @@
 <div>
-    <h4 align="center">🚀 If your dream doesn't scare you, It's clearly not big enough. 🚀</h4> <br>
+    <h2 align="center">🚀 If your dream doesn't scare you, It's clearly not big enough. 🚀</h2> <br>
     <p>Hi 👋, I'm Mau Truong! <br> I am a student at <a link="https://dut.udn.vn/">Danang University of Science and Technology.</a></p>
 </div>
 <div align="center">
     <img src="./GIF/displayName.gif" alt="Animated GIF" loop autoplay>
 </div>
-<hr>
+<br>
 <div align="center">
-    <h3 align="center">🔥 Technologies and Tools 🔥</h3> <br>
+    <h2 align="center">🔥 Technologies and Tools 🔥</h2> <br>
     <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -19,9 +19,9 @@
     <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-<hr>
+<br>
 <div style="width:100%;"> 
-    <h3 align="center">☄️ GitHub Stats ☄️</h3> <br>
+    <h2 align="center">☄️ GitHub Stats ☄️</h2> <br>
     <table style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
         <tr>
             <td style="width:50%;">
@@ -34,7 +34,7 @@
         </tr>
     </table>
 </div>
-<hr>
+<br>
 <div align="center" style="width:100%;" >
     <h2 align="center"> 📥 Find me 📥</h2>
     <br>
