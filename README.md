@@ -24,11 +24,11 @@
     <h2 align="center">☄️ GitHub Stats ☄️</h2> <br>
     <table style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
         <tr>
-            <td style="width:50%;">
+            <td style="width:40%;">
                 <img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoMauTruongQB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=10484E&hide_border=true" />
                 <img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=NgoMauTruongQB&show_icons=true&theme=react&border_color=10484E&hide_border=true" />
             </td>
-            <td style="width:50%;; vertical-align: bottom;">
+            <td style="width:60%;; vertical-align: bottom;">
                 <img src="./GIF/b.gif" alt="dev" style="width=100%; border-radius:6px;"/>
             </td>
         </tr>
