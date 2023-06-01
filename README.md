@@ -40,12 +40,12 @@
     <br>
     <a style="padding:0 30px;" href="https://www.facebook.com/truongngo2707/" target="blank" width="150">
         <img src="./img/facebook.png" alt="facebook" width="70" />
-    </a>&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;
     <a style="padding:0 30px;" href="https://www.instagram.com/03.nmt/" target="blank">
         <img src="./img/instagram.png" alt="instagram" width="70"/>
-    </a>&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;
     <a style="padding:0 30px;" href="mailto:truongngo2707@gmail.com" target="top">
         <img src="./img/gmail.png" alt="mail" width="70"/>
-    </a>&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;
 </div>
   
