@@ -8,10 +8,11 @@
     <h2 align="center">🚀 If your dream doesn't scare you, It's clearly not big enough. 🚀</h2> <br>
     <p>- I am a student at <a link="https://dut.udn.vn/">Danang University of Science and Technology.</a> <br/>- Faculty of 💻 Information Technology <br/>-  Majoring Japanese 🇯🇵🇻🇳  foreign language </p>
 </div>
-
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;I%20am%20a%20student%20at%20DUT%20-%20UDN;%20Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=F85D7F&vCenter=true&pause=1000&size=22" />
   </a>
+</div>
 
 &nbsp;<div align="center">
   [![Spotify Playlist](https://novatorem.vercel.app/api/spotify?background_color=1F222E&border_color=ffffff&uri=spotify%3Aplaylist%2eGCog6IJ6WZZslCUdhjH6)](https://open.spotify.com/playlist/2eGCog6IJ6WZZslCUdhjH6)
