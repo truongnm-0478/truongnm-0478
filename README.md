@@ -1,64 +1,94 @@
+## Hey 👋, I'm [Mau Truong!](https://github.com/NgoMauTruongQB/)
+
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/truongngo2707/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:truongngo2707@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/03.nmt/)
+
 <div>
     <h2 align="center">🚀 If your dream doesn't scare you, It's clearly not big enough. 🚀</h2> <br>
     <p>Hi 👋, I'm Mau Truong! <br> I am a student at <a link="https://dut.udn.vn/">Danang University of Science and Technology.</a></p>
 </div>
-<div align="center">
-    <img src="./GIF/displayName.gif" alt="Animated GIF" loop autoplay>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=
+    Full%20stack%20web%20and%20app%20developer;I%20am%20a%20student%20at%20DUT%20-%20UDN;%20Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=F85D7F&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+&nbsp;<div align="center">
+  [![Spotify Playlist](https://novatorem.vercel.app/api/spotify?background_color=1F222E&border_color=ffffff&uri=spotify%3Aplaylist%2eGCog6IJ6WZZslCUdhjH6)](https://open.spotify.com/playlist/2eGCog6IJ6WZZslCUdhjH6)
 </div>
-<br>
-<div align="center">
-    <h2 align="center">🔥 Technologies and Tools 🔥</h2> <br>
-    <h3 align="left">Language</h3>
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
-    <h3 align="left">Framework</h3>
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
-    <h3 align="left">Database</h3>
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />&nbsp;
-    <h3 align="left">Other</h3>
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />&nbsp;
-    <img width=50px style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
-</div>
-<br>
-<div style="width:100%;"> 
-    <h2 align="center">☄️ GitHub Stats ☄️</h2> <br>
-    <table style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
-        <tr>
-            <td style="width:40%;">
-                <img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoMauTruongQB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=10484E&hide_border=true" />
-                <img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=NgoMauTruongQB&show_icons=true&theme=react&border_color=10484E&hide_border=true" />
-            </td>
-            <td style="width:60%;; vertical-align: bottom;">
-                <img src="./GIF/b.gif" alt="dev" style="width=100%; border-radius:6px;"/>
-            </td>
-        </tr>
-    </table>
-</div>
-<br>
-<div align="center" style="width:100%;" >
-    <h2 align="center"> 📥 Find me 📥</h2>
-    <br>
-    <a style="padding:0 30px;" href="https://www.facebook.com/truongngo2707/" target="blank" width="150">
-        <img src="./img/facebook.png" alt="facebook" width="70" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a style="padding:0 30px;" href="https://www.instagram.com/03.nmt/" target="blank">
-        <img src="./img/instagram.png" alt="instagram" width="70"/>
-    </a>&nbsp;&nbsp;&nbsp;
-    <a style="padding:0 30px;" href="mailto:truongngo2707@gmail.com" target="top">
-        <img src="./img/gmail.png" alt="mail" width="70"/>
-    </a>&nbsp;&nbsp;&nbsp;
-</div>
-  
+
+
+<h5>💻 GitHub Profile Stats</h5>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NgoMauTruongQB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoMauTruongQB&layout=compact&theme=buefy&hide_border=true" alt="Your Top Languages" /></a> |
+| ------------- | ------------- |
+
+
+
+  <h5>👨‍💻 Programming and Markup Languages</h5>
+
+  <p>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  </p>
+
+  <h5>🧰 Frameworks and Libraries</h5>
+
+  <p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="VueJS" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"></a>
+<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?logo=NestJS&logoColor=white"></a>
+<a href="#"><img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white"></a>
+<a href="#"><img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+
+  </p>
+
+  <h5>🗄️ Databases and Cloud Hosting</h5>
+
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
+      <a href="#"><img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-60ADEF?logo=cloudinary&logoColor=white"></a>
+
+  </p>
+
+  <h5>💻 Software and Tools</h5>
+
+  <p>
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white"></a>
+        <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+        <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white"></a>
+        <a href="#"><img alt="Lark" src="https://img.shields.io/badge/-Lark-0084FF?logo=lark&logoColor=white"></a>
+        <a href="#"><img alt="Skype" src="https://img.shields.io/badge/-Skype-00AFF0?logo=skype&logoColor=white"></a>
+        <a href="#"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white"></a>
+        <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"></a>
+
+  </p>
+
+
+   <a href="https://github.com/NgoMauTruongQB/github-readme-activity-graph"><img alt="Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NgoMauTruongQB&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
