@@ -10,7 +10,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20stack%20web%20and%20app%20developer;I%20am%20a%20student%20at%20DUT%20-%20UDN;%20Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=F85D7F&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I%20am%20a%20student%20at%20DUT%20-%20UDN;%20Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=F85D7F&vCenter=true&pause=1000&size=22" />
   </a>
 </div>
 
