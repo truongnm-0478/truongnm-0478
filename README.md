@@ -87,6 +87,3 @@
         <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"></a>
 
   </p>
-
-
-   <a href="https://github.com/NgoMauTruongQB/github-readme-activity-graph"><img alt="Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NgoMauTruongQB&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
