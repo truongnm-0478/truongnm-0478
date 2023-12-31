@@ -51,6 +51,7 @@
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?logo=NestJS&logoColor=white"></a>
 <a href="#"><img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white"></a>
 <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white"></a>
 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 
@@ -85,5 +86,6 @@
         <a href="#"><img alt="Skype" src="https://img.shields.io/badge/-Skype-00AFF0?logo=skype&logoColor=white"></a>
         <a href="#"><img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white"></a>
         <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"></a>
+        <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white"></a>
 
   </p>
