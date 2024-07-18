@@ -19,13 +19,6 @@
 </div>
 
 
-<h2>💻 GitHub Profile Stats</h2>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NgoMauTruongQB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoMauTruongQB&layout=compact&theme=buefy&hide_border=true" alt="Your Top Languages" /></a> |
-| ------------- | ------------- |
-
-
-
   <h2>👨‍💻 Programming and Markup Languages</h2>
 
   <p>
